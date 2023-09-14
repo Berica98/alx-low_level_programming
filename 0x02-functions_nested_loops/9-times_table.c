@@ -2,7 +2,7 @@
 
 
 /**
- * times table - Print the 0 time table, starting with 0
+ * times_table - Function that prints the 9 time table, starting with 0
  * Return: empty output
  */
 

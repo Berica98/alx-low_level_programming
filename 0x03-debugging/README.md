@@ -1,3 +1,2 @@
 # 0x03. C - Debugging
-
-Debugging for the first time,watch my journey
+This is my debugging project,watch my step by step process

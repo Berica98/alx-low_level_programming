@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _strein - return the length of a string
- * @s: string
- * Return: legth
+ * _strlen - Write a function that returns the length of a string
+ * @s: the variable pointer at S
+ * Return: Always return count
  */
 int _strlen(char *s)
 {

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _atoi - function that convert a string to an integer.
+ * _atoi - function that converts a string to an integer.
  * @s: The string
  *
  * Return: The converted integer
@@ -34,5 +34,5 @@ i++;
 if (sign < 0)
 value *= -1;
 
-return (0);
+return (value);
 }
